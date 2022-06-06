@@ -1,0 +1,17 @@
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\bin\Debug\net6.0\SpaceflightNewsCLI.exe
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\bin\Debug\net6.0\SpaceflightNewsCLI.deps.json
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\bin\Debug\net6.0\SpaceflightNewsCLI.runtimeconfig.json
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\bin\Debug\net6.0\SpaceflightNewsCLI.dll
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\bin\Debug\net6.0\SpaceflightNewsCLI.pdb
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.csproj.AssemblyReference.cache
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.AssemblyInfoInputs.cache
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.AssemblyInfo.cs
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.csproj.CoreCompileInputs.cache
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.csproj.CopyComplete
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.dll
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\refint\SpaceflightNewsCLI.dll
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.pdb
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\SpaceflightNewsCLI.genruntimeconfig.cache
+C:\Users\matic\Desktop\dev\SpaceflightNewsCLI\obj\Debug\net6.0\ref\SpaceflightNewsCLI.dll

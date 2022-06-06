@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQxDqv4dp3SxUAtbeguXyWM1hO2u9H9RVCoCzi9FAp7Onn35lqESh8g2d96+9K7BPiC6LDpB39QhXvCAlSNUgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matic\\Desktop\\dev\\SpaceflightNewsCLI\\SpaceflightNewsCLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
